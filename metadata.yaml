@@ -1,0 +1,36 @@
+_repo: Lyrical-tales_70266
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robinson, Mary
+    aliases:
+    - Robinson, Perdita
+    - Robinson, Mrs. (Mary)
+    - Juvenal, Horace
+    - Randall, Anne Frances
+    - Bramble, Tabitha
+    - Robbinson, Mrs.
+    birthdate: 1758
+    deathdate: 1800
+    gutenberg_agent_id: '3155'
+    url: http://www.gutenberg.org/2009/agents/3155
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Robinson_(poet)
+description: ''
+gutenberg_issued: '2023-03-12'
+identifiers:
+  gutenberg: '70266'
+language: en
+pgterms:marc904: https://archive.org/details/lyricaltales00robi
+pgterms:marc905: 20220627091340robinson
+pgterms:marc906: '1800'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bT. N. Longman and O. Rees, $c1800.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lyrical tales
+url: http://www.gutenberg.org/ebooks/70266
